@@ -3,3 +3,5 @@ uvicorn
 gunicorn
 Flask
 pydantic
+flask_cors
+sympy
